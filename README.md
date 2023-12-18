@@ -31,21 +31,21 @@ Soundtrack: <a href = "https://soundcloud.com/noriel207/sets/game-development-pr
 # CONTRIBUTORS
 <center>
 **Director & Concept Design**<br>
-Noriel Achero<br>
+Noriel Achero(https://github.com/NorielAchero)<br>
 Emmanuel Valenzuela<br><br>
 
 **Co-Director**<br>
-Hannah Condada<br>
+Hannah Condada(https://github.com/HannahCondada)<br>
 
 **Story**<br>
 Emmanuel Valenzuela<br>
-Noriel Achero<br>
+Noriel Achero(https://github.com/NorielAchero)<br>
 
 **Lead Programmer**<br>
-Angelo Gerard Mallari<br>
+Angelo Gerard Mallari(https://github.com/angewonk)<br>
 
 **Assistant Progammer**<br>
-Ronan Soriano<br>
+Ronan Soriano(https://github.com/RonanSoriano)<br>
 Giebert Delotavo<br>
 
 **Content Creator**<br>
@@ -53,32 +53,32 @@ Chris Margareth Nana<br>
 Geydel Casupanan<br>
 
 **Illustrations**<br>
-Hannah Condada<br>
+Hannah Condada(https://github.com/HannahCondada)<br>
 Emmanuel Valenzuela <br>
 Jon Lawrence Felipe<br>
 Khen Shen Nabora<br>
-Noriel Achero<br>
+Noriel Achero(https://github.com/NorielAchero)<br>
 
 **Character Design**<br>
 Emmanuel Valenzuela <br>
 
 **Scenario Design**<br>
-Hannah Condada<br>
+Hannah Condada(https://github.com/HannahCondada)<br>
 
 **Music**<br>
-Noriel Achero<br>
+Noriel Achero(https://github.com/NorielAchero)<br>
 
 **Producer**<br>
 Jon Lawrence Felipe<br>
 
 **Cast**<br>
 Xavier - Jon Lawrence Felipe<br>
-Sychosis - Hannah Condada<br>
+Sychosis - Hannah Condada(https://github.com/HannahCondada)<br>
 Metemp - Chris Margareth Nana<br>
-Rene Descartes - Noriel Achero<br>
+Rene Descartes - Noriel Achero(https://github.com/NorielAchero)<br>
 Reign Descartes - Geydel Casupanan<br>
 William Shakespeare - Emmanuel Valenzuela<br>
 Baden Powell - Jerwin Castillo<br>
-Simoun - Ronan Soriano<br>
-Isagani - Angelo Gerard Mallari<be>
+Simoun - Ronan Soriano(https://github.com/RonanSoriano)<br>
+Isagani - Angelo Gerard Mallari(https://github.com/angewonk)<br>
 </center>
