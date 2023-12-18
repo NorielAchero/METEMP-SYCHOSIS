@@ -12,6 +12,10 @@ When the player obtained all the items and finished all the levels of the game, 
 # TRAILER
 
 
+https://github.com/NorielAchero/METEMP-SYCHOSIS/assets/142378544/33c6f798-5816-4382-bbdf-4bebfa841953
+
+
+
 
 
 # GAME SCREENSHOTS
