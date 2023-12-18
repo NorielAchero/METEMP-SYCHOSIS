@@ -22,6 +22,10 @@ When the player obtained all the items and finished all the levels of the game, 
 ![image](https://github.com/NorielAchero/METEMP-SYCHOSIS/assets/142378544/3fa7af4b-f423-4bcd-a440-6a3003f3d588)
 
 
+# SOUNDTACK
+Soundtrack made by Noriel Achero 
+
+Soundtrack: <a href = "https://soundcloud.com/noriel207/sets/game-development-project">https://soundcloud.com/noriel207/sets/game-development-project</a>
 
 
 # CONTRIBUTORS
