@@ -33,56 +33,56 @@ Soundtrack: <a href = "https://soundcloud.com/noriel207/sets/game-development-pr
 
 
 # CONTRIBUTORS
-<center>
-**Director & Concept Design**<br>
-Noriel Achero(https://github.com/NorielAchero)<br>
+
+### Director & Concept Design
+Noriel Achero (https://github.com/NorielAchero)<br>
 Emmanuel Valenzuela<br><br>
 
-**Co-Director**<br>
-Hannah Condada(https://github.com/HannahCondada)<br>
+### Co-Director
+Hannah Condada https://github.com/HannahCondada)<br>
 
-**Story**<br>
+### Story
 Emmanuel Valenzuela<br>
-Noriel Achero(https://github.com/NorielAchero)<br>
+Noriel Achero (https://github.com/NorielAchero)<br>
 
-**Lead Programmer**<br>
-Angelo Gerard Mallari(https://github.com/angewonk)<br>
+### Lead Programmer
+Angelo Gerard Mallari (https://github.com/angewonk)<br>
 
-**Assistant Progammer**<br>
-Ronan Soriano(https://github.com/RonanSoriano)<br>
+### Assistant Progammers
+Ronan Soriano (https://github.com/RonanSoriano)<br>
 Giebert Delotavo<br>
 
-**Content Creator**<br>
+### Content Creator
 Chris Margareth Nana<br>
 Geydel Casupanan<br>
 
-**Illustrations**<br>
-Hannah Condada(https://github.com/HannahCondada)<br>
+### Illustrations
+Hannah Condada (https://github.com/HannahCondada)<br>
 Emmanuel Valenzuela <br>
 Jon Lawrence Felipe<br>
 Khen Shen Nabora<br>
-Noriel Achero(https://github.com/NorielAchero)<br>
+Noriel Achero (https://github.com/NorielAchero)<br>
 
-**Character Design**<br>
+### Character Design
 Emmanuel Valenzuela <br>
 
-**Scenario Design**<br>
+### Scenario Design
 Hannah Condada(https://github.com/HannahCondada)<br>
 
-**Music**<br>
-Noriel Achero(https://github.com/NorielAchero)<br>
+### Music
+Noriel Achero (https://github.com/NorielAchero)<br>
 
-**Producer**<br>
+### Producer
 Jon Lawrence Felipe<br>
 
-**Cast**<br>
+### Cast
 Xavier - Jon Lawrence Felipe<br>
-Sychosis - Hannah Condada(https://github.com/HannahCondada)<br>
+Sychosis - Hannah Condada (https://github.com/HannahCondada)<br>
 Metemp - Chris Margareth Nana<br>
-Rene Descartes - Noriel Achero(https://github.com/NorielAchero)<br>
+Rene Descartes - Noriel Achero (https://github.com/NorielAchero)<br>
 Reign Descartes - Geydel Casupanan<br>
 William Shakespeare - Emmanuel Valenzuela<br>
 Baden Powell - Jerwin Castillo<br>
-Simoun - Ronan Soriano(https://github.com/RonanSoriano)<br>
-Isagani - Angelo Gerard Mallari(https://github.com/angewonk)<br>
-</center>
+Simoun - Ronan Soriano (https://github.com/RonanSoriano)<br>
+Isagani - Angelo Gerard Mallari (https://github.com/angewonk)<br>
+
